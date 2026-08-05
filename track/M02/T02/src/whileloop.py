@@ -4,4 +4,4 @@ total = 0
 while count <= num:
     total=total+count
     count=count+1
-print(total)
+print(f"Total: {total}")
